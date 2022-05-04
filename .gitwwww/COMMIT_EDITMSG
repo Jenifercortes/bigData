@@ -1,0 +1,19 @@
+PrimeiroCommit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed May 4 17:30:49 2022 -0300
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   src/usuario/dto/create-usuario.dto.ts
+#	modified:   src/usuario/usuario.controller.ts
+#	modified:   src/usuario/usuario.service.ts
+#	new file:   src/venda/dto/filter-date.dto.ts
+#	modified:   src/venda/venda.controller.ts
+#	modified:   src/venda/venda.service.ts
+#
